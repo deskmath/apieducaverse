@@ -13,6 +13,7 @@ router.get('/',(req,res) =>{
     findWhere({id: 3}).
     value();
     console.log(res);
+    
 });
 
 router.post('/',(req,res) =>{

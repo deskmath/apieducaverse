@@ -29,7 +29,7 @@ router.post('/',(req,res) =>{
         res.status(500).json({error:'There was an error'});
     }
     
-    res.json(lands);
+    res.json(land);
 });
 
 router.put('/:id', (req,res) =>{

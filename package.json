@@ -13,8 +13,8 @@
     "express": "^4.18.1",
     "express-validator": "^6.14.0",
     "morgan": "^1.10.0",
-    "node-fetch": "^3.2.3",
-    "underscore": "^1.13.2"
+    "node-fetch": "^3.2.4",
+    "underscore": "^1.13.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
